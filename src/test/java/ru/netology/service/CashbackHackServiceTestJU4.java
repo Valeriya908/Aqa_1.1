@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CashbackHackServiceTest {
+public class CashbackHackServiceTestJU4 {
     CashbackHackService service = new CashbackHackService();
 
     @Test
